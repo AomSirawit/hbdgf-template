@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+
+  height: 100vh;
+  background-image: linear-gradient(to right, pink, skyblue);
+  margin: 0; /* This ensures no margin is applied to the body */
+}
+.sriracha-regular {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
