@@ -11,11 +11,11 @@ import {
 } from "@material-tailwind/react";
 const images = [
     {
-        src: "/picture/test.jpg",
+        src: "https://placehold.co/600x400",
         alt: "Image 1",
     },
     {
-        src: "/picture/test2.jpeg",
+        src: "https://placehold.co/600x400",
         alt: "Image 2",
     },
     {
