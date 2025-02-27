@@ -92,7 +92,7 @@ function Hero() {
                     unmount: { scale: 0.9, y: -100 },
                 }}
                 backdropProps={{
-                    className: "backdrop-blur-sm bg-black/30",
+                    className: "fixed inset-0 z-50 backdrop-blur-md bg-black/30",
                 }}
             >  <DialogHeader className="sriracha-regular text-lg text-blue-500">
                     Lorem ipsum dolor sit amet.
